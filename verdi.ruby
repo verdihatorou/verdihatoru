@@ -1,0 +1,2 @@
+print "verdi,hatoru"
+aeco
